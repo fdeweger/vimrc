@@ -4,3 +4,5 @@ set vb
 set nocompatible
 
 :nmap W :w !sudo tee %
+
+set number
