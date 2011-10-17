@@ -11,3 +11,4 @@ set softtabstop=4
 
 colorscheme desert
 set bg=dark
+set number
