@@ -6,8 +6,8 @@ set nocompatible
 :nmap W :w !sudo tee %
 
 set expandtab
-set shiftwidth=5
-set softtabstop=5        
+set shiftwidth=4
+set softtabstop=4        
 
 colorscheme desert
 set bg=dark
