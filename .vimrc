@@ -4,6 +4,7 @@ set vb
 set nocompatible
 
 :nmap W :w !sudo tee %
+:nmap P :!php %
 
 set expandtab
 set shiftwidth=4
